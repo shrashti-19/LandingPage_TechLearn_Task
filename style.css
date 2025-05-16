@@ -140,6 +140,12 @@ footer{
 html{
     scroll-behavior: smooth;
 }
+#theme-toggle{
+    background: none;
+    border: 1px solid #070054;
+    padding: 8px 12px;
+    cursor: pointer;
+}
 .dark-mode{
     background-color: #000;
     color: #fff;
